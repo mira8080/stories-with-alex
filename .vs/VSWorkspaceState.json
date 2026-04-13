@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\Local settings (.vs)",
+    "\\node_modules",
+    "\\public",
+    "\\src"
+  ],
+  "SelectedNode": "\\.env",
+  "PreviewInSolutionExplorer": false
+}
